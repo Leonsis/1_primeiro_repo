@@ -1,6 +1,3 @@
 testando repositorio
 caio é lindo
-a
-b
-c
-d
+
