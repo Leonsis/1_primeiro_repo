@@ -2,5 +2,9 @@ testando repositorio
 caio é lindo
 a
 b
+<<<<<<< HEAD
 c
 d
+=======
+c
+>>>>>>> master
